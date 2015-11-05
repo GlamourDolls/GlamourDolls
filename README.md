@@ -1,2 +1,2 @@
 # GlamourDolls
-Main Repository
+This is where we will be collaborating!
